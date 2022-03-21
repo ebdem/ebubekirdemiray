@@ -26,8 +26,7 @@ export const projects = [
     image: "/images/chat.png",
     tags: ["React", "Socket.io", "Material-UI"],
     source: "https://github.com/ebdem/chat-app",
-    visit:
-      "https://5fcd567c26e26c32d76fe133--hopeful-leakey-928911.netlify.app/",
+    visit: "https://5fcbb5488a25c48cbd1023a9--hungry-jang-1efc50.netlify.app/",
     id: 2,
   },
   {
