@@ -45,7 +45,7 @@ const Header = () => (
       <SocialIcons href="https://github.com/ebdem">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/ebubekir-demiray-6170941a6/">
+      <SocialIcons href="https://www.linkedin.com/in/ebubekir-demiray/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
 
